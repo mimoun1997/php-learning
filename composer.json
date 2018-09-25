@@ -1,0 +1,13 @@
+{
+    "name": "mimoun1997/php-learning",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "./"
+        ],
+        "files" : [
+            "./helpers.php"
+        ]
+
+    }
+}
