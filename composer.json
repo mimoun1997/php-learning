@@ -1,12 +1,14 @@
 {
     "name": "mimoun1997/php-learning",
-    "require": {},
+    "require": {
+        "phpunit/phpunit": "^7.3"
+    },
     "autoload": {
         "classmap": [
             "./"
         ],
         "files" : [
-            "./helpers.php"
+            "app/helpers.php"
         ]
 
     }
